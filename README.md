@@ -1,4 +1,6 @@
-l ADN de la Aplicación (Configuración e Importación)
+Referencia y Créditos Este proyecto fue desarrollado tomando como base y referencia el tutorial oficial de Flet: Flet Calculator Tutorial
+
+l. ADN de la Aplicación (Configuración e Importación)
 Aquí definimos las herramientas y el estado inicial. La variable resultado es el corazón de la visualización, ya que es el único elemento que cambiará dinámicamente. 
 <img width="720" height="192" alt="image" src="https://github.com/user-attachments/assets/0cd4c7ff-b148-4d51-afa3-4820710113d7" />
 
